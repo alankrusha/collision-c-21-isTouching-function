@@ -1,2 +1,2 @@
-# collision-c-21-isTouching-function
-isTouching function 
+# collisionAlgorithm
+Algorithm to detect collision between two objects
